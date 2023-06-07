@@ -1,0 +1,62 @@
+header{
+	background-color: lightblue;
+	height: 200px;
+}
+.logo{
+	width: 100px;
+	margin-left: 40px;
+}
+nav,
+nav ul{
+	display: inline-block;
+}
+header nav a{
+	color:grey;
+	
+}
+.navbar-li{
+	display:inline-block;
+	padding:10px;
+	margin-inline:10px;
+
+}
+.image-main{
+	width:1070px;
+	height:600px;
+	margin-left: 400px;
+}
+.main-title{
+	background-color:lightblue;
+	color:grey; 
+	border: 5px white ;
+	margin: 20px 400px ;
+	height: 50px; 
+}
+.text{
+	font-family: "Arial GEO Bold", sans-serif;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600&display=swap');
+h1{
+	font-family: 'Roboto Slab', serif;
+	font-size:40px;
+}
+footer{
+	background-color: lightblue;
+}
+h2{
+	margin-left:50px;
+	margin-top:50px;
+}
+.text2{
+	margin-left: 50px;
+	margin-right: 1500px;
+	font-size: 12px;
+	font-family: "Arial GEO Bold", sans-serif;
+}
+iframe{
+	margin-left: 50px;
+	height:250px;
+	width: 250px;
+}
